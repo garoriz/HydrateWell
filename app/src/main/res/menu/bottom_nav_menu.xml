@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_time"
+        android:icon="@drawable/baseline_access_time_24"
+        android:title="@string/periodic" />
+
+    <item
+        android:id="@+id/navigation_reminder"
+        android:icon="@drawable/baseline_edit_notifications_24"
+        android:title="@string/on_off" />
+
+</menu>

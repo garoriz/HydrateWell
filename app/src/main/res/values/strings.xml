@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HydrateWell</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="periodic">Периодичность</string>
+    <string name="on_off">Уведомления</string>
+    <string name="fragment_setting_time_desc">Через сколько минут напоминать пить воду?</string>
+    <string name="minutes">Кол-во минут</string>
+    <string name="save">Сохранить</string>
+    <string name="reminder">Напоминание</string>
+    <string name="time_to_drink_water">Пора пить воду</string>
+    <string name="notifications_are_off">Уведомления для приложения выключены</string>
+    <string name="settings">Настройки</string>
+    <string name="scheduled">Напоминание поставлено</string>
+    <string name="set_time">Установи время</string>
+</resources>
